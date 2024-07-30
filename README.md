@@ -1,4 +1,2 @@
-# lane_detection
-OpenCV Lane Detection using Python
-
-Task 1 of Next24tech internship.
+Road Lane Line Detection System Task-1
+Task 1 of Next24tech Technology & Services Internship.
